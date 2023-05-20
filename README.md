@@ -1,2 +1,2 @@
-# homewor-5
+# homework-5
 17.05.2023
